@@ -1,0 +1,15 @@
+release/addpersondialog.o
+release/main.o
+release/mainwindow.o
+release/modifypersondialog.o
+release/page_login.o
+release/person.o
+release/readfiledialog.o
+release/showdialog.o
+release/qrc_res.o
+release/moc_addpersondialog.o
+release/moc_mainwindow.o
+release/moc_modifypersondialog.o
+release/moc_page_login.o
+release/moc_readfiledialog.o
+release/moc_showdialog.o

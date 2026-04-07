@@ -1,0 +1,15 @@
+debug/addpersondialog.o
+debug/main.o
+debug/mainwindow.o
+debug/modifypersondialog.o
+debug/page_login.o
+debug/person.o
+debug/readfiledialog.o
+debug/showdialog.o
+debug/qrc_res.o
+debug/moc_addpersondialog.o
+debug/moc_mainwindow.o
+debug/moc_modifypersondialog.o
+debug/moc_page_login.o
+debug/moc_readfiledialog.o
+debug/moc_showdialog.o
